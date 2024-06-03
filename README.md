@@ -61,7 +61,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 <br />
-See the https://github.com/Falcons-ai/weapon_detection_yolo_trainer/issues for a full list of proposed features (and known issues).
+See the https://github.com/Falcons-ai/weapons_detection_trainer_yolov8_open/issues for a full list of proposed features (and known issues).
 
 
 
@@ -77,7 +77,7 @@ See the https://github.com/Falcons-ai/weapon_detection_yolo_trainer/issues for a
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [github.com/Falcons-ai/weapons_detection_trainer_yolov8_open/]
+Project Link: ![](github.com/Falcons-ai/weapons_detection_trainer_yolov8_open/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
