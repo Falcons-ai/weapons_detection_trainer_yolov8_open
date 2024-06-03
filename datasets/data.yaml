@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['weapons']
+
+roboflow:
+  workspace: mike-ovbzu
+  project: weapons_detection-tsdac
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mike-ovbzu/weapons_detection-tsdac/dataset/9
