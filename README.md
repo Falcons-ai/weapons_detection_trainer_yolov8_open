@@ -39,6 +39,14 @@ https://app.roboflow.com/mike-ovbzu/weapons_detection-tsdac/8
 ## Evaluation and Inference
 After training, you can evaluate the model's performance and use it for inference on new images.
 
+## Inference Output 
+<p align="center">
+  <img src="assets/1.png" alt="Image 1" width="30%" />
+  <img src="assets/2.png" alt="Image 2" width="30%" />
+  <img src="assets/3.png" alt="Image 3" width="30%" />
+</p>
+
+
 
 ## Acknowledgments
 We would like to express our gratitude to the Ultralytics and the community and all the contributors who have made this powerful object detection tool available to the public.
