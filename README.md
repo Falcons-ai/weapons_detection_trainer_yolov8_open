@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Falcons-ai/weapon_detection_yolo_trainer">
+  <a href="github.com/Falcons-ai/weapons_detection_trainer_yolov8_open">
     <img src="assets/falcons-logo2.png" alt="Logo" >
   </a>
 </div>
@@ -77,7 +77,7 @@ See the https://github.com/Falcons-ai/weapon_detection_yolo_trainer/issues for a
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/Falcons-ai/weapon_detection_yolo_trainer/]
+Project Link: [github.com/Falcons-ai/weapons_detection_trainer_yolov8_open/]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
