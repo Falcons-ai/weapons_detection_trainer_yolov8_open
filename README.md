@@ -7,7 +7,6 @@
 [![python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 <img src="https://img.shields.io/badge/Ultralytics-Yolov8-blue" alt="Ultralytics - Yolov8">
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 [![Generic badge](https://img.shields.io/badge/FALCONS.AI-Computer_Vision-red.svg)](https://shields.io/)
 
 
